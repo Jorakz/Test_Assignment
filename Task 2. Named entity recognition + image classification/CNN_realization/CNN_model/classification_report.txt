@@ -1,0 +1,61 @@
+butterfly:
+  Precision: 0.9667
+  Recall: 0.9464
+  F1-score: 0.9564
+  Support: 429.0
+
+cat:
+  Precision: 0.9083
+  Recall: 0.9646
+  F1-score: 0.9356
+  Support: 339.0
+
+chicken:
+  Precision: 0.9899
+  Recall: 0.9437
+  F1-score: 0.9663
+  Support: 622.0
+
+cow:
+  Precision: 0.8535
+  Recall: 0.9540
+  F1-score: 0.9010
+  Support: 391.0
+
+dog:
+  Precision: 0.9422
+  Recall: 0.9550
+  F1-score: 0.9486
+  Support: 956.0
+
+elephant:
+  Precision: 0.9788
+  Recall: 0.8850
+  F1-score: 0.9295
+  Support: 313.0
+
+horse:
+  Precision: 0.9806
+  Recall: 0.9120
+  F1-score: 0.9451
+  Support: 500.0
+
+scoiattolo:
+  Precision: 0.9175
+  Recall: 0.9753
+  F1-score: 0.9456
+  Support: 365.0
+
+sheep:
+  Precision: 0.9297
+  Recall: 0.8994
+  F1-score: 0.9143
+  Support: 338.0
+
+spider:
+  Precision: 0.9748
+  Recall: 0.9858
+  F1-score: 0.9803
+  Support: 983.0
+
+Accuracy: 0.9488
